@@ -1,0 +1,44 @@
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Estilos para a seção principal */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color:#fff
+  }
+  
+  /* Estilos para a seção "Sobre Mim" */
+  section {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Estilos para o título da seção */
+  h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para o parágrafo */
+  p {
+    text-align: justify;
+    line-height: 1.6;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
